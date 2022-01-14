@@ -106,5 +106,6 @@ https://youtu.be/wsp4hVN0wsk
 7. BIBLIOGRAFÍA
 
 •	Principios de circuitos eléctricos. (2021). [Ebook] (8th ed.). (2021). Retrieved 06 January 2021, from http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a03-Potencia.pdf
+
 •	Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.). Naucalpan de Juárez: Pearson Educación
 
